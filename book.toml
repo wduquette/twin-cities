@@ -1,0 +1,8 @@
+[book]
+authors = ["Will Duquette"]
+multilingual = false
+src = "src"
+title = "The Twin Cities"
+
+[build]
+build-dir = "docs"
