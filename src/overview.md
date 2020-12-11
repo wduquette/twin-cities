@@ -2,13 +2,28 @@
 
 Big Picture: Decline of sister-cities strengthens circle of wizards.
 
-| Status | Description |
-| ------ | ----------- |
-| Round  | 3           |
-| Lens   | Mary        |
-| Focus  | ???         |
-| Turn   | Lens A      |
-| Player | Mary        |
+## State of Play
+
+| Status  | Description |
+| ------- | ----------- |
+| Players | Will, Dave, Mary, Tom |
+| Round   | 3           |
+| Lens    | Mary        |
+| Focus   | ???         |
+| Turn    | Lens A      |
+| Player  | Mary        |
+| Next #  | 20          |
+
+## Legacies
+
+| Player | Legacy |
+| ------ | ------ |
+| Will   | The Greater Partzufim |
+| Dave   | -- |
+| Mary   | -- |
+| Tom    | The texts found in the lost library by Septimus Slope |
+
+## Palette
 
 | Yes/No | Palette |
 | --- | ------- |
