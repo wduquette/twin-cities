@@ -1,6 +1,7 @@
 # Summary
 
 - [Overview](./overview.md)
+- [Log](./log.md)
 - [Start: Founding](./start.md)
 - [Period: Congress of Cults](./congress_of_cults.md)
 - [Period: The Wizard War](./wizard_war.md)

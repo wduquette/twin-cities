@@ -4,15 +4,17 @@ Big Picture: Decline of sister-cities strengthens circle of wizards.
 
 ## State of Play
 
-| Status  | Description |
-| ------- | ----------- |
-| Players | Will, Dave, Mary, Tom |
-| Round   | 3           |
-| Lens    | Mary        |
-| Focus   | ???         |
-| Turn    | Lens A      |
-| Player  | Mary        |
-| Next #  | 20          |
+See the [Log](log.md) for the sequence of events.
+
+Status  | Description
+------- | -----------
+Players | Will, Dave, Mary, Tom
+Round   | 3
+Lens    | Mary
+Focus   | The original members of the Congress of Cults
+Turn    | Lens A
+Player  | Mary
+Next #  | 21
 
 ## Legacies
 

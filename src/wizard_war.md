@@ -1,15 +1,15 @@
 # Period: The Wizard War (Dark)
 
-(W10) The realm of the Twin Cities falls into an extended period of warfare
+(10,WD) The realm of the Twin Cities falls into an extended period of warfare
 during which the forces of the Congress of Cults attempts to root out and
 destroy all members of the Unlicensed Wizard's Guild founded by Samuel Mingus
 and Severus Slope. At the end of the period the survivors of the Guild are in
 hiding, the economy of the realm has been devastated, large tracts of land are
 uninhabitable, and the authority of the Congress is in tatters.
 
-## Event: Never Again! (Dark)
+## Event: Slaughter of Guild Members in Gognor (Dark)
 
-(W11) Following the slaughter of the guild members in the city of Gognor, the
+(11,WD) Following the slaughter of the guild members in the city of Gognor, the
 remaining leadership of the Unlicensed Wizard's Guild, assembled in secret in a
 cellar in Farland, pledge to oppose the Congress of Cults and all its works and
 all its empty promises, declaring as the Guild's patron their dimly remembered
@@ -19,7 +19,7 @@ towns of the realm: "Never Again!"
 
 ## Event: Destruction of the Tome (Dark)
 
-(T12) One of the key documents is a book called the Greater Partzufim.
+(12,TM) One of the key documents is a book called the Greater Partzufim.
 Discovered in the lost library, it contains knowledge both sides wish to control
 for their own reasons. At the end of the Wizard War, in a bittersweet victory
 for the Congress of Cults, they successfully destroy the tome and its contents
@@ -27,7 +27,7 @@ are lost.
 
 ### Scene: How did the war end? (Dark)
 
-> (T16) Trench 777, a useless defensive position in an unimportant place, is
+> (16,TM) Trench 777, a useless defensive position in an unimportant place, is
 finally overrun by the forces of the Congress of Cults, becoming the last battle
 of the the Wizard War. The High Wishop Verria Etpax arrives in caravan, and is
 greeted by a diminutive subaltern. He is led through the smoking residue of
